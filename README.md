@@ -11,3 +11,5 @@ I'm Tamim Hasan, a React web developer in computer science. I've been doing this
 
 
 Every project is started from scratch and finished without using copied code. Then they are used on the project to ensure everyone understands. This program's exciting project-based curriculum includes building modern, super cool, and responsive websites! Let's get started learning HTML, CSS, and JavaScript.
+
+Contact me if you have any questions through my linkedin: linkedin.com/in/mr-tamim-94b310226
